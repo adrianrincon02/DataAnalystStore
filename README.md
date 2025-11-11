@@ -8,11 +8,11 @@ El análisis se realizó en Google Colab utilizando herramientas de análisis de
 
 En el notebook se estudian los siguientes aspectos para cada tienda:
 
-**💰 Ingresos totales
-🛍️ Categorías de productos más y menos vendidas
-⭐ Calificaciones promedio de los clientes
-📦 Productos con mayor y menor venta
-🚚 Costo de envío promedio**
+**-💰 Ingresos totales
+-🛍️ Categorías de productos más y menos vendidas
+-⭐ Calificaciones promedio de los clientes
+-📦 Productos con mayor y menor venta
+-🚚 Costo de envío promedio**
 
 A partir de estos indicadores, se generaron gráficos y conclusiones que permiten comparar el desempeño global de las tiendas.
 
